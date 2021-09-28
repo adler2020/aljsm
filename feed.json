@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "الجسم",
+    "description": "",
+    "home_page_url": "https://aljsm.com",
+    "feed_url": "https://aljsm.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "aljsm.com"
+    },
+    "items": [
+    ]
+}
